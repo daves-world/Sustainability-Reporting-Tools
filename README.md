@@ -16,7 +16,6 @@ All figures are drawn from MTN Ghana's own published Annual Reports (2023–2025
 
 ## Screenshots
 
-```
 <img width="3075" height="1763" alt="Case 1 MTN Ghana Prototype Tool_page-0001" src="https://github.com/user-attachments/assets/95b2f886-081b-4b13-a49e-acdefaf09084" />
 
 <img width="3075" height="1763" alt="Case 1 MTN Ghana Prototype Tool_page-0002" src="https://github.com/user-attachments/assets/812f5eb1-feff-4c5c-b71e-dcc342ea3a3a" />
@@ -27,7 +26,6 @@ All figures are drawn from MTN Ghana's own published Annual Reports (2023–2025
 
 <img width="3075" height="1763" alt="Case 1 MTN Ghana Prototype Tool_page-0005" src="https://github.com/user-attachments/assets/9aea7ee2-a541-463b-bfe3-c1d2485dabc2" />
 
-```
 
 ## Key finding
 
